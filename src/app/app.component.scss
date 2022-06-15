@@ -1,0 +1,39 @@
+
+h1 {
+    text-align: left;
+    color: rebeccapurple;
+}
+
+// a:link, a:visited {
+//     text-align: center;
+//     display: inline-flexbox;
+
+// }
+
+// a:hover, a:active{
+//     background-color: azure;
+
+// }
+
+a {
+    color: #d8e8d9;
+}
+
+button {
+    
+    background-color: #d5d5ed;
+    padding: 7px 10px;
+    font-size: 10px;
+    cursor: pointer;
+    display: inline-block;
+    font-size: small;
+  }
+
+img {
+    vertical-align: -webkit-baseline-middle;
+    border-radius: 50%;
+    vertical-align: middle;
+    text-align: center;
+    height: 80px;
+    width: 10%;
+}
